@@ -1,0 +1,174 @@
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: i
+
+Enter key (int >= 0) for record: 1
+Enter data (int) for record: 10
+Record was inserted in table
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: i
+
+Enter key (int >= 0) for record: 5
+Enter data (int) for record: 50
+Record was inserted in table
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: i
+
+Enter key (int >= 0) for record: 9
+Enter data (int) for record: 90
+Record was inserted in table
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: f
+
+Enter key (int >= 0) to search for: 5
+Record was found.
+   key            =        5
+   data =       50
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: i
+
+Enter key (int >= 0) for record: 5
+Enter data (int) for record: 60
+Record was inserted in table
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: s
+
+There are 3 records in the table.
+There are 28 empty slots left in the table.
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: e
+
+Insert key to delete
+5
+Record erased
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: e
+
+Insert key to delete
+5
+Record not found
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: e
+
+Insert key to delete
+9
+Record erased
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: s
+
+There are 1 records in the table.
+There are 30 empty slots left in the table.
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: f
+
+Enter key (int >= 0) to search for: 5
+Record with key 5 not found.
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: f
+
+Enter key (int >= 0) to search for: 9
+Record with key 9 not found.
+
+
+The following choices are available:
+ I   Insert a new record or update existing record
+ F   Find a record
+ S   Get the number of records
+ E   Erase a record
+ Q   Quit this test program
+
+Enter choice: q
+
+Test program ended.
+Press any key to continue . . .
